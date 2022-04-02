@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @maximedelprat
-- 👀 I’m interested in ecology, statistics & programming.
+- 👀 I’m a master student in biodiversity, ecology & evolution. Interested in vegetation & distribution modelling, plant community ecology & functional ecology.
 - 🌱 I’m currently on an internship at Laboratoire d'Ecologie Alpine in Grenoble, studying how global changes affects alpine biodiversity with an approach of modelisation.
